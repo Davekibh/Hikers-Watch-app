@@ -1,6 +1,8 @@
 # Hikers-Watch-app
 
-Get your  and Longitude of your currrent location.
+Get your Latitude and Longitude of your currrent location.
+
+As you move around the Latitudes and Longitudes also changes.
 
 Google Maps API is necessary!
 
